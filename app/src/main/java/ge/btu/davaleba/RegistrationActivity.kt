@@ -19,7 +19,7 @@ class RegistrationActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         mAuth = FirebaseAuth.getInstance()
-        if (mAuth.currentUser == null){
+        if (mAuth.currentUser != null){
             goToMain()
         }
         setContentView(R.layout.activity_registration)
