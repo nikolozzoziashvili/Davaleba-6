@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "593716168643",
+    "project_id": "astute-window-290715",
+    "storage_bucket": "astute-window-290715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593716168643:android:bb0cdebc7609b03c8b9f76",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593716168643-op5n1104vkag23i80irv1e2a5vn3mjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2Ud0pzbwn2xlrK7q0ZN7PL7TusY4FE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593716168643-op5n1104vkag23i80irv1e2a5vn3mjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593716168643:android:32af9814a35906838b9f76",
+        "android_client_info": {
+          "package_name": "ge.btu.davaleba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593716168643-op5n1104vkag23i80irv1e2a5vn3mjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2Ud0pzbwn2xlrK7q0ZN7PL7TusY4FE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593716168643-op5n1104vkag23i80irv1e2a5vn3mjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
